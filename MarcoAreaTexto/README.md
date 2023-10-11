@@ -1,0 +1,4 @@
+# ***** MarcoAreaTexto *****
+#
+# GUI Java
+
